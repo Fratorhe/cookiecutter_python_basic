@@ -19,7 +19,7 @@ class Parabola:
     a: float = 1
     b: float = 1
     c: float = 1
-    x: np.array = np.linspace(-1, 1, num=50)
+    x: np.array = np.linspace(-1, 1, num=2)
 
     def __post_init__(self):
         """
