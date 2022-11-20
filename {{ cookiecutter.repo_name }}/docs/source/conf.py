@@ -44,7 +44,7 @@ extensions = [
     'numpydoc',
     'sphinx_copybutton',
     'sphinx.ext.autosectionlabel',
-    'sphinx-autodoc-typehints'
+    'sphinx_autodoc_typehints'
 ]
 
 # Configuration options for plot_directive. See:
