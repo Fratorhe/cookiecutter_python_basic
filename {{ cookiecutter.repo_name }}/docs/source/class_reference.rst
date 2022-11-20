@@ -7,4 +7,3 @@ Class reference
 
     .. automethod:: __init__
     .. automethod:: _compute_y
-    .. automethod:: plot_y
