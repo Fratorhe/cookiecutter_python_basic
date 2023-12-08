@@ -16,6 +16,7 @@ class Parabola:
     :param c: parameter c of the formula
     :param x: array of the x variable.
     """
+
     a: float = 1
     b: float = 1
     c: float = 1
@@ -33,7 +34,7 @@ class Parabola:
         Private function to compute the y.
         :return: None.
         """
-        self.y = self.a * self.x ** 2 + self.b * self.x + self.c
+        self.y = self.a * self.x**2 + self.b * self.x + self.c
 
     def plot_y(self, fig=None, ax=None) -> (plt.figure, plt.axis):
         """
