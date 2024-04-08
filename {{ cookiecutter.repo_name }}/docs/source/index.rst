@@ -12,3 +12,6 @@ Example  Documentation
    installation
    usage
    class_reference
+
+
+.. bibliography:: bibliography.bib
