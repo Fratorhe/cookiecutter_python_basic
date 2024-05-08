@@ -43,7 +43,7 @@ class Parabola:
 
         :param fig:
         :param ax:
-        :return
+        :return: None.
         """
         if (fig and ax) is None:
             fig, ax = plt.subplots()
